@@ -23,6 +23,7 @@ This package is designed to find the market equilibrium under different policy r
 
 ## Project Structure
 
+```
 /ai-creator-economy-sim/
 |
 ├── main.py
@@ -41,7 +42,7 @@ This package is designed to find the market equilibrium under different policy r
 └── outputs/
 ├── tables/
 └── figures/
-
+```
 ## Requirements
 
 * Python 3.9+
